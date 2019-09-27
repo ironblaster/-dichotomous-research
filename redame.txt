@@ -1,6 +1,0 @@
-Documentazione:
-Questo nostro programma (ricerca dicotomica) è un modo innovativo per la ricerca di elementi in un vettore di grandi dimensioni con tempi brevissimi.
-Infatti dopo aver inserito gli elementi nel vettore, il programma prima ordinerà il vettore in ordine crescente e successivamente si aprirà una Query per la ricerca del valore desiderato.
-Guida all’ utilizzo:
-dopo aver avviato il programma si indicherà il quantitativo di elementi che si vogliono inserire e successivamente si procederà al inserimento dei valori (massimo 100 elementi).
-Dopo grazie ad una query di ricerca si potrà ricercare il valore interessato ed il programma darà come risposta la cella con il valore contenuto.
